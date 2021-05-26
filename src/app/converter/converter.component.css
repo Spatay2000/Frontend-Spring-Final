@@ -1,0 +1,38 @@
+/* Styles go here */
+header{
+  size:100%;
+}
+body {
+  
+    background: url(http://previews.123rf.com/images/artemsam/artemsam1208/artemsam120800166/14855866-Falling-euros-sunny-sky-background--Stock-Photo-money-euro-lottery.jpg) no-repeat center center fixed;
+    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: 100%;
+    background-size: 100%;
+    size:1000%;
+  }
+  
+    h1 {
+      
+      color: red;
+      color: #00ff00;
+       text-decoration: underline;
+  }
+  
+  .form-control {
+     width: 1px;
+     size:100%;
+     text-align: center;
+    
+     
+  }
+  
+  .input-group
+  {
+    color: red;
+    width:400px;
+    height:20px;
+    text-decoration: underline;
+  }
+  
